@@ -1,0 +1,4 @@
+Insert wallets here. One each line.
+WALLET1
+WALLET2
+..and so on.. 
